@@ -1,6 +1,6 @@
 # Shift Maker 9001
 >And Yes... it's over 9000 because thats how we do things
-
+## Numpy Madness, To many n-ds
 
 ### Functional Requirements
 - User input a list of people
